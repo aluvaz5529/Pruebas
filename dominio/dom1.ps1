@@ -1,4 +1,4 @@
-#Para un nuevo bosque junto a el nuevo dominio
+# Para un nuevo bosque junto a el nuevo dominio
 # Script de Windows PowerShell para implementación de AD DS
 #
 
