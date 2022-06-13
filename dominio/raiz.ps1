@@ -1,4 +1,4 @@
-# Para un nuevo bosque junto a el nuevo dominio
+#
 # Script de Windows PowerShell para implementación de AD DS
 #
 
@@ -6,12 +6,13 @@ Import-Module ADDSDeployment
 Install-ADDSForest `
 -CreateDnsDelegation:$false `
 -DatabasePath "C:\Windows\NTDS" `
--DomainMode "Win2008" `
+-DomainMode "WinThreshold" `
 -DomainName "castillo-morella.com" `
--DomainNetbiosName "CASTILLO-MORELLA" `
--ForestMode "Win2008" `
+-DomainNetbiosName "CASTILLO-MORELL" `
+-ForestMode "WinThreshold" `
 -InstallDns:$true `
 -LogPath "C:\Windows\NTDS" `
 -NoRebootOnCompletion:$false `
 -SysvolPath "C:\Windows\SYSVOL" `
 -Force:$true
+
