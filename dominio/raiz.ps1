@@ -7,8 +7,8 @@ Install-ADDSForest `
 -CreateDnsDelegation:$false `
 -DatabasePath "C:\Windows\NTDS" `
 -DomainMode "WinThreshold" `
--DomainName "castillo-morella.com" `
--DomainNetbiosName "CASTILLO-MORELL" `
+-DomainName "morella.com" `
+-DomainNetbiosName "MORELLA" `
 -ForestMode "WinThreshold" `
 -InstallDns:$true `
 -LogPath "C:\Windows\NTDS" `
