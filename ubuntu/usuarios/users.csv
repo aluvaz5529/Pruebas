@@ -1,0 +1,28 @@
+LUIS:NAVARRO:RUIZ:LNAVARROR:12345678-A:castellon:LNAVARROR@castellon-upv.es:12345678-ARUIZ:S:S:Rectorado-GG:Rectorado:O_W10-1:45
+SUSANA:ALABAU:SANCHO:SALABAUS:12345679-B:castellon:SALABAUS@castellon-upv.es:12345679-BSANCHO:S:S:Secretaria-GG:Secretaria:O_W10-2:45
+PEDRO:GOMIS:ZAMBUJO:PGOMISZ:12345680-C:castellon:PGOMISZ@castellon-upv.es:12345680-CZAMBUJO:S:S:Informatica-GG:Informatica:O_UB-1:15
+PIEDAD:VALENCIA:RUIZ:PVALENCIAR:12345681-D:castellon:PVALENCIAR@castellon-upv.es:12345681-DRUIZ:S:S:Informatica-GG:Informatica:O_UB-2:15
+MANUEL:VARGAS:COELLO:MVARGASC:12345682-E:castellon:MVARGASC@castellon-upv.es:12345682-ECOELLO:S:S:Informatica-GG:Informatica:O_UB-3:15
+JAVIER:ARIAS:PUJOL:JARIASP:12345683-F:castellon:JARIASP@castellon-upv.es:12345683-FPUJOL:S:S:Informatica-GG:Informatica:O_UB-4:15
+EVA:PELLICER:JUAN:EPELLICERJ:12345684-G:castellon:EPELLICERJ@castellon-upv.es:12345684-GJUAN:S:S:Informatica-GG:Informatica:O_UB-5:15
+RODRIGO:GALLEGO:CHAVES:RGALLEGOC:12345685-H:castellon:RGALLEGOC@castellon-upv.es:12345685-HCHAVES:S:S:Informatica-GG:Informatica:O_UB-6:15
+JOHANN:AGUILAR:ALBA:JAGUILARA:12345686-I:castellon:JAGUILARA@castellon-upv.es:12345686-IALBA:S:S:Informatica-GG:Informatica:O_UB-7:15
+PEPE:SANCHO:CARVALHO:PSANCHOC:12345687-J:castellon:PSANCHOC@castellon-upv.es:12345687-JCARVALHO:S:S:Informatica-GG:Informatica:O_UB-8:15
+SARA:ZAMBUJO:CAMPOS:SZAMBUJOC:12345688-K:castellon:SZAMBUJOC@castellon-upv.es:12345688-KCAMPOS:S:S:Servicios_U-GG:Servicios_U:O_UB-9:15
+ISABEL:RUIZ:MONCHO:IRUIZM:12345689-L:castellon:IRUIZM@castellon-upv.es:12345689-LMONCHO:S:S:Servicios_U-GG:Servicios_U:O_UB-10:15
+FRANCISCO:COELLO:ALABAU:FCOELLOA:12345690-M:castellon:FCOELLOA@castellon-upv.es:12345690-MALABAU:S:S:Servicios_U-GG:Servicios_U:O_UB-11:15
+BASILIO:PUJOL:GOMIS:BPUJOLG:12345691-N:castellon:BPUJOLG@castellon-upv.es:12345691-NGOMIS:S:S:Servicios_U-GG:Servicios_U:O_UB-12:15
+MARIO:JUAN:VALENCIA:MJUANV:12345692-O:castellon:MJUANV@castellon-upv.es:12345692-OVALENCIA:S:S:Servicios_U-GG:Servicios_U:O_UB-13:15
+#c1 nombre
+#c2 apellido1
+#c3 apellido2
+#c4 cuenta de usuario
+#c5 DNI
+#c6 delegation
+#c7 email
+#c8 contraseña por defecto DNI+apellido2
+#c9 enabled si
+#c10 change si
+#c11 grupo global 
+#c12 UO
+#c13 ordenador
