@@ -1,0 +1,11 @@
+Name;Description;Category;Path;Scope
+Enfermeria_GG;Grupo de Enfermería;Security;OU=departamentos;Global
+Informatica_GG;Grupo del departamento de informatica;Security;OU=departamentos;Global
+Alergologia_GG;Departamento de Alergología;Security;OU=departamentos;Global
+Comunicacion_Prensa_GG;Departamento de Comunicacion y Prensa;Security;OU=departamentos;Global
+
+Informatica_GL;Grupo local del departamento de informatica;Security;OU=departamentos;DomainLocal
+Alergologia_GL;Departamento local de Alergología;Security;OU=departamentos;DomainLocal
+Comunicacion_Prensa_GL;Departamento local de Comunicacion y Prensa;Security;OU=departamentos;DomainLocal
+Enfermeria_GL;Departamento local Enfermeria;Security;OU=departamentos;DomainLocal
+comun_x;grupo local común;Security;OU=departamentos;DomainLocal
